@@ -1,0 +1,49 @@
+================================================================================
+YOUTUBE MUSIC ANALYTICS - KEY INSIGHTS REPORT
+================================================================================
+
+Generated on: 2025-10-14 22:52:44
+Dataset: youtube-top-100-songs-2025.csv
+
+================================================================================
+EXECUTIVE SUMMARY
+================================================================================
+
+📊 Dataset Overview:
+   • Total songs analyzed: 100
+   • Unique channels: 65
+   • Combined views: 10.59 billion
+   • Average views per song: 105,910,319
+
+🏆 Top Performers:
+   • Most viewed song: ROSÉ & Bruno Mars - APT. (Official Music Video)
+     Views: 2,009,014,557
+     Channel: ROSÉ
+   • Top channel: ROSÉ
+     Total views: 2,240,541,280
+
+💡 Key Insights:
+   1. Dataset contains 100 songs from 65 channels
+   2. Total combined views: 10.59 billion
+   3. Most viewed song: ROSÉ & Bruno Mars - APT. (Official Music Video)
+   4. 2 songs have achieved 'mega hit' status with over 1 billion views
+   5. Average song duration is 3.40 minutes
+
+⏱️  Duration Insights:
+   • Average song duration: 3.40 minutes
+   • Most common duration range: 3-5 minutes
+   • Songs under 3 minutes: 31 (31.0%)
+
+📈 Popularity Analysis:
+   • Mega hits (≥1B views): 2 songs (2.0%)
+   • Popular (100M-1B): 25 songs (25.0%)
+
+🎯 Recommendations:
+   1. Focus on popular channels with proven track records
+   2. Optimal song duration appears to be 3-4 minutes
+   3. Channel size strongly correlates with video performance
+   4. Consistency matters - top channels have multiple hits
+
+================================================================================
+END OF REPORT
+================================================================================
